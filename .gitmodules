@@ -27,7 +27,7 @@
 	url = https://github.com/Lua-cURL/Lua-cURLv3.git
 [submodule "3rd/navigation"]
 	path = 3rd/navigation
-	url = https://github.com/zhandouxiaojiji/lua-navigation.git
+	url = https://github.com/xcoding1024/lua-navigation.git
 [submodule "3rd/crypto"]
 	path = 3rd/crypto
-	url = https://github.com/zhandouxiaojiji/lua-crypto.git
+	url = https://github.com/xcoding1024/lua-crypto.git
